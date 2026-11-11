@@ -26,5 +26,9 @@ The solution was to build out a basic employee onboarding pipeline in active dir
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* Solved a mock ticket where a user was given the incorrect access!
-* I fully-documented my steps end-to-end
+* Designed department-based OU structure (Finance, HR, IT, Operations)
+* Implemented RBAC with security groups mapped to each department
+* Provisioned 15 user accounts with consistent naming conventions and attribute standards
+* Diagnosed and resolved a multi-cause access issue (wrong OU + missing group membership)
+* Documented full incident resolution with root cause analysis
+
